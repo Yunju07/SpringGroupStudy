@@ -1,5 +1,5 @@
 ## 🌱SpringGroupStudy
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logoColor=white"/>
 
 ### 🎯 목표
   자바 스프링&
