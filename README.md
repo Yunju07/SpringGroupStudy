@@ -31,8 +31,8 @@
 | Week | days | content |
 | :--- | :--- | :--- |
 | Week 1 | 11/1 ~ 11/7 | 김영한 스프링 핵심 원리 - 기본편 완강 & 나만의 토이 프로젝트 개발 |
-| Week 2 | 11/8 ~ 11/14 | Spring in action 5th ed: Part 1 - CH1 | CH2 |
-| Week 3 | 11/15 ~ 11/21 | Spring in action 5th ed: Part 1 - CH3 | CH4 | CH5 |
-| Week 4 | 11/22 ~ 11/28 | Spring in action 5th ed: Part 2 - CH6 | CH7 |
-| Week 5 | 11/29 ~ 12/5 | Spring in action 5th ed: Part 2 - CH8 | CH9 |
+| Week 2 | 11/8 ~ 11/14 | Spring in action 5th ed: Part 1 - CH1/CH2 |
+| Week 3 | 11/15 ~ 11/21 | Spring in action 5th ed: Part 1 - CH3/CH4/CH5 |
+| Week 4 | 11/22 ~ 11/28 | Spring in action 5th ed: Part 2 - CH6/CH7 |
+| Week 5 | 11/29 ~ 12/5 | Spring in action 5th ed: Part 2 - CH8/CH9 |
 | Week 6 | 12/6 ~ 12/12 | 5주 간 스터디 피드백 & 보충 학습 |
